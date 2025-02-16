@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.navbar{
+    background-color: #131913 !important;
+}
+.logo{
+    height: 75px;
+    width: 100%;
+    background-size:cover ;
+    padding: 5px;
+}
+.card-img{
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+}
+.seller-img{
+    height: 100px;
+    width: 100%;
+    background-size:cover ;
+    padding: 5px;
+}
+
+/* .card-hover{
+    position: relative;
+    overflow: hidden !important;
+}
+.card-hover img{
+    transition: all 3s;
+}
+.card-hover img:hover{
+    transform: scale(1.5);
+}
+.card-hover button{
+    position: absolute;
+} */

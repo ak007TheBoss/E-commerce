@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #131913 !important;
+}
+.logo{
+    height: 75px;
+    width: 100%;
+    background-size:cover ;
+    padding: 5px;
+}
+.drone{
+    height: 500px;
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+.small-drone{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+}

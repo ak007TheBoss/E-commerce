@@ -1,0 +1,9 @@
+.navbar{
+    background-color: #131913 !important;
+}
+.logo{
+    height: 75px;
+    width: 100%;
+    background-size:cover ;
+    padding: 5px;
+}
